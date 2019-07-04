@@ -4,7 +4,9 @@
   "description": "web app using react",
   "main": "index.js",
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node server/server.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "Shama H. <shama@tech-dojo.org>",
   "license": "MIT",
@@ -46,6 +48,8 @@
     "react-router": "^2.3.0",
     "react-tap-event-plugin": "^1.0.0",
     "react-tools": "^0.13.3",
-    "vinyl-source-stream": "^1.1.0"
-  }
+    "vinyl-source-stream": "^1.1.0",
+    "snyk": "^1.192.0"
+  },
+  "snyk": true
 }
