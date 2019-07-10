@@ -21,7 +21,7 @@
     "reactify": "^1.1.1"
   },
   "dependencies": {
-    "babel": "^5.5.6",
+    "babel": "^6.0.0",
     "body-parser": "^1.12.4",
     "connect-mongo": "^1.1.0",
     "cookie-parser": "^1.4.0",
@@ -34,7 +34,7 @@
     "gulp-babel": "^6.1.1",
     "history": "^1.13.1",
     "jquery": "^2.1.4",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.12",
     "material-ui": "^0.16.1",
     "mongoose": "^4.0.3",
     "node-jsx": "^0.13.3",
