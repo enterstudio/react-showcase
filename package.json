@@ -23,7 +23,7 @@
   "dependencies": {
     "babel": "^5.5.6",
     "body-parser": "^1.12.4",
-    "connect-mongo": "^1.1.0",
+    "connect-mongo": "^3.0.0",
     "cookie-parser": "^1.4.0",
     "cors": "^2.6.0",
     "ejs": "^2.3.1",
@@ -36,7 +36,7 @@
     "jquery": "^2.1.4",
     "lodash": "^3.10.1",
     "material-ui": "^0.16.1",
-    "mongoose": "^4.0.3",
+    "mongoose": "^5.3.9",
     "node-jsx": "^0.13.3",
     "nodemailer": "^1.11.0",
     "passport": "^0.3.2",
