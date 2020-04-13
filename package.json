@@ -33,7 +33,7 @@
     "guid": "0.0.12",
     "gulp-babel": "^6.1.1",
     "history": "^1.13.1",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "lodash": "^3.10.1",
     "material-ui": "^0.16.1",
     "mongoose": "^4.0.3",
